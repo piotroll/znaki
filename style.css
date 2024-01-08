@@ -2,13 +2,13 @@
     margin-left:auto;
     margin-right: auto;
     width:330px;
+    
     border-width: 50px;
-	padding:7px;
 	border-style: solid; 
 	border-color: red;
 	text-align: center;
 	font-size: 30px;
-	background-color:white;
+    background-color: white;
 }
 
 .znak{
@@ -20,5 +20,5 @@
     width:250px;
     border-radius: 50%;
     border: solid red 30px;
-	background-color:white;
+	background-color: white;
 }
