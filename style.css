@@ -1,0 +1,21 @@
+.ramka{
+    margin-left:auto;
+    margin-right: auto;
+    width:330px;
+    border-width: 50px;
+	border-style: solid; 
+	border-color: red;
+	text-align: center;
+	font-size: 30px;
+}
+
+.znak{
+    margin-top:40px;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    border: solid red 30px;
+}
