@@ -8,6 +8,7 @@
 	border-color: red;
 	text-align: center;
 	font-size: 30px;
+	background-color:white;
 }
 
 .znak{
@@ -19,4 +20,5 @@
     width:250px;
     border-radius: 50%;
     border: solid red 30px;
+	background-color:white;
 }
